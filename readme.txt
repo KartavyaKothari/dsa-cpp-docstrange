@@ -25,6 +25,7 @@ Arkapriya: m2f 6-7pm or 6-8pm
 - I dont want you guys to make notes*
     - Google whatever you need whenever you need it
     - Have all your notes / theory in form of comments on code
+- System design
 
 
 Placement orientied
@@ -38,3 +39,4 @@ Placement orientied
 
 Expectation from YOU:
 - You complete any and all HW / CW / Any other questions / Tasks I assign
+- If you have ANY doubt / query, it is your UTMOST responsibility to let me know about it
