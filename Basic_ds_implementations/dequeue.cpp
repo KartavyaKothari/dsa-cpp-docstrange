@@ -22,8 +22,8 @@ class Dequeue{
     bool is_empty(){}
 
     //idx starts at 1
-    void insert_at(int ele, int idx){}
-    void delete_from(int idx){}
+    // void insert_at(int ele, int idx){}
+    // void delete_from(int idx){}
 
     // Extra extra credit
     // complexity O(1), can use maps stl
