@@ -2,21 +2,21 @@
 using namespace std;
 
 bool cmp(int a, int b){
-    return a>b;
+    return a<b;
 }
 
 int partition(vector<int> &arr, int a, int b){
-    int pivot = arr[b];
+    int pivot = b;
     int i = a-1;
 
     for(int j = a ; j < b ; j++){
-        if(cmp(arr[j],pivot)){
+        if(cmp(arr[j],arr[pivot])){
             i++;
             swap(arr[i],arr[j]);
         }
     }
 
-    swap(arr[i+1],pivot);
+    swap(arr[i+1],arr[pivot]);
 
     return i+1;
 }
