@@ -1,0 +1,12 @@
+12 - Trees, Heaps, AVL*
+13 - Guest lecture 1 (Paypal SDE 2)
+14 - Trie, Lower bound upper bound
+15 - Disjoint set union
+16 - Complexity discussion
+17 - Guest lecture 2 (Dream11 Data scientist)
+18 - Mock interview 1,2,3,4
+19 - 6 month, 2 year roadmaps
+
+Backtracking*
+AVL*
+RBR interview + aptitude prep material
