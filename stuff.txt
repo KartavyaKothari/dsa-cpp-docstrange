@@ -1,5 +1,4 @@
-12 - Trees, Heaps, AVL*
-13 - Guest lecture 1 (Paypal SDE 2)
+13 - Guest lecture 1 (Paypal SDE 2) - Viral Parmar
 14 - Trie, Lower bound upper bound
 15 - Disjoint set union
 16 - Complexity discussion
@@ -10,3 +9,10 @@
 Backtracking*
 AVL*
 RBR interview + aptitude prep material
+
+
+Watch good TV / Movies and notice the conversation, practice, mock interviews
+Derive dont memorise
+A accountibility partner, for coding and preparation
+80 / 20 rule
+Defer applying to companies till you can afford to
